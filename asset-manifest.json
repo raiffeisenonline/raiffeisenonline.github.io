@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.95de27f3.chunk.css",
+    "main.js": "/static/js/main.e3131bdb.chunk.js",
+    "main.js.map": "/static/js/main.e3131bdb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a8af9357.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a8af9357.js.map",
+    "static/css/2.f87e9f44.chunk.css": "/static/css/2.f87e9f44.chunk.css",
+    "static/js/2.c8520c04.chunk.js": "/static/js/2.c8520c04.chunk.js",
+    "static/js/2.c8520c04.chunk.js.map": "/static/js/2.c8520c04.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.18f2b16bbfc0e8c59faba399db0e1e57.js": "/precache-manifest.18f2b16bbfc0e8c59faba399db0e1e57.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.f87e9f44.chunk.css.map": "/static/css/2.f87e9f44.chunk.css.map",
+    "static/css/main.95de27f3.chunk.css.map": "/static/css/main.95de27f3.chunk.css.map",
+    "static/js/2.c8520c04.chunk.js.LICENSE.txt": "/static/js/2.c8520c04.chunk.js.LICENSE.txt",
+    "static/media/norton-icon.png": "/static/media/norton-icon.aeb8b81d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8af9357.js",
+    "static/css/2.f87e9f44.chunk.css",
+    "static/js/2.c8520c04.chunk.js",
+    "static/css/main.95de27f3.chunk.css",
+    "static/js/main.e3131bdb.chunk.js"
+  ]
+}
