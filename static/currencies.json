@@ -1,0 +1,68 @@
+{
+  "funds": [
+    {
+      "cssClass": "up",
+      "currency": "EUR",
+      "label": "Raiffeisen - TopDividende Aktien",
+      "value": 141.91
+    },
+    {
+      "cssClass": "up",
+      "currency": "EUR",
+      "label": "Raiffeisen - Energie Aktien",
+      "value": 81.82
+    },
+    {
+      "cssClass": "up",
+      "currency": "CZK",
+      "label": "Raiffeisen strategie konzervativní",
+      "value": 1.0632
+    },
+    {
+      "cssClass": "up",
+      "currency": "CZK",
+      "label": "Raiffeisen strategie balancovaná",
+      "value": 1.0925
+    },
+    {
+      "cssClass": "up",
+      "currency": "CZK",
+      "label": "Raiffeisen strategie progresivní",
+      "value": 1.0668
+    }
+  ],
+  "currencies": [
+    {
+      "purchaseValue": "26.458",
+      "countryFlagPath": "/pictures/vlajky/eu.png",
+      "cssClass": "up",
+      "saleValue": "28.202",
+      "label": "EUR",
+      "flagPicturePath": "/pictures/vlajky/eu.png"
+    },
+    {
+      "purchaseValue": "29.194",
+      "countryFlagPath": "/pictures/vlajky/velka-britanie.png",
+      "cssClass": "up",
+      "saleValue": "31.306",
+      "label": "GBP",
+      "flagPicturePath": "/pictures/vlajky/velka-britanie.png"
+    },
+    {
+      "purchaseValue": "22.441",
+      "countryFlagPath": "/pictures/vlajky/usa.png",
+      "cssClass": "up",
+      "saleValue": "23.919",
+      "label": "USD",
+      "flagPicturePath": "/pictures/vlajky/usa.png"
+    },
+    {
+      "purchaseValue": "24.579",
+      "countryFlagPath": "/pictures/vlajky/svycarsko.png",
+      "cssClass": "up",
+      "saleValue": "26.357",
+      "label": "CHF",
+      "flagPicturePath": "/pictures/vlajky/svycarsko.png"
+    }
+  ]
+}
