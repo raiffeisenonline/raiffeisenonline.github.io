@@ -1,4 +1,4 @@
-const ENVIRONMENT = 'development'
+const ENVIRONMENT = 'production'
 
 const USER_ID = 'USER_ID'
 const LAST_ACTIVE = 'LAST_ACTIVE'
